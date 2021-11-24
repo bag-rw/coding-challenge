@@ -62,6 +62,7 @@ User Modal:
 - Organized Code, folders, components
 - Document/Comment your Code
 - Standardized Naming conventions (Folders, files, components)
+- Serverless functions (Vercel, Netlify) 
 - Form fields validation
 - Error handling & logging 
 - Env variables : Do not hard code any private or sensitive data
