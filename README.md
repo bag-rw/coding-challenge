@@ -20,9 +20,13 @@ You need to use ReactJs/TypeScript to complete this challenge.
 View the optimal layout for the app depending on their device's screen size
 See hover states for all interactive elements on the page.
 
-Design file https://www.figma.com/proto/zbExDbsTm2NNcLLzfg9mDc/Bag-Challenge
+### Design assests 
 
-Use Icons from
+[Desktop Design](https://www.figma.com/proto/zbExDbsTm2NNcLLzfg9mDc/Bag-Challenge?page-id=0%3A1&node-id=2%3A535&viewport=435%2C48%2C0.25&scaling=min-zoom&starting-point-node-id=2%3A535&show-proto-sidebar=1)
+
+[Mobile Design](https://www.figma.com/proto/zbExDbsTm2NNcLLzfg9mDc/Bag-Challenge?page-id=0%3A1&node-id=2%3A971&viewport=435%2C48%2C0.25&scaling=min-zoom&starting-point-node-id=2%3A971&show-proto-sidebar=1)
+
+### Use Icons from
 
 https://heroicons.com/
 
