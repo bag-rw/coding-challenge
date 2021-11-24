@@ -12,7 +12,7 @@ You need to use ReactJs/TypeScript to complete this challenge.
 
 ## How to Submission
 - Create a public/open repository (Gitlab or Github )
-- Submit link to repository & your personal details using this google form
+- Submit link to repository & your personal details using this google form https://forms.gle/iTuhssFuMimVvsnC6
 - Deadline : 10th December at 12:00 pm
 
 ## Requirements : Your users should be able to:
