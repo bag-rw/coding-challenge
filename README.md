@@ -5,10 +5,10 @@ Your challenge is to build out a dashboard which showcases a checklist of countr
 
 You need to use ReactJs/NodeJs to complete this challenge. 
 
-React : NextJs or CRA
-React Component Library : HeadlessUI, MUI or ChakraUI
-Database : MonogoDB, PostgreSQL or any database 
-(Optional) HTML/CSS framework : TailwindCSS
+- React : `NextJs` or `CRA`
+- React Component Library : `HeadlessUI`, `MUI` or `ChakraUI`
+- Database : `MonogoDB`, `PostgreSQL` or any database 
+- (Optional) HTML/CSS framework : `TailwindCSS`
 
 ## How to Submission
 - Create a public/open repository (Gitlab or Github )
