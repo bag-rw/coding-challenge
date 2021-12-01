@@ -34,13 +34,13 @@ https://feathericons.com/
 
 ### Register/Login
 - Register before they use the dashboard
-- Login to the dashboard 
+- Login to the dashboard (you can create your own UI/flow)
 - Save list of countries
 Bonus : Social Login, you can use https://next-auth.js.org if using NextJs
 
 ### Dashboard 
 - Use REST API https://restcountries.com to get countries data
-- Create, Update, Read, Delete from list.  
+- Create, Update, Read, Delete from list. (you are only adding/removing from the list)
 - Search box to find country and add it to the dashboard.
 - Add a country to the travel dashboard. 
 - Click country to view full details
